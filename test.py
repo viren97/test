@@ -6,8 +6,3 @@ def greet():
 
 
 greet()
-
-
-
-def enter(): 
-    print("enter")
